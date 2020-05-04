@@ -1,5 +1,5 @@
 # ActiveRecord Validations Lab
-
+ 
 # Basic Validations
 
 Add validations to these models such that...
